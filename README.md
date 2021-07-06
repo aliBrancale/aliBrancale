@@ -1,4 +1,4 @@
-Alejandro Brancale \n
-Making as many projects as I can- Summer 2021 \n
-Learning React at the moment for these projects \n
+Alejandro Brancale <br />
+Making as many projects as I can- Summer 2021 <br />
+Learning React at the moment for these projects <br />
 abrancale2@gmail.com 
